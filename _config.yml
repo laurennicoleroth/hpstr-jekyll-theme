@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Lauren Nicole Roth
+description:      Technical blog and portfolio
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -9,13 +9,13 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Lauren Nicole Roth
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Programmer, Photographer, Dancer, Artist"
+  email:          laurennicoleroth@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter: laurenroth
+  facebook:
   github:         
   stackexchange:  
   linkedin:       
@@ -24,7 +24,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +laurenRothNicole
 
 # Background image to be tiled on all pages
 background: 
