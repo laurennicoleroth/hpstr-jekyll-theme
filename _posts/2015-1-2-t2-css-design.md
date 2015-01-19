@@ -3,6 +3,10 @@ layout: post
 title: "Cascading Style Sheets"
 description: "Get Some Style"
 tags: [sample post, video]
+image:
+  feature: peter_griffin_css.gif
+  credit: 
+  creditlink: http://i.imgur.com/Q3cUg29.gif
 ---
 
 ## Learning Competencies
