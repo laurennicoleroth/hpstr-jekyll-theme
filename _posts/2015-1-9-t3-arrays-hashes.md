@@ -12,6 +12,10 @@ image:
 ## Learning Competencies
 - Compare Arrays and Hashes in Ruby
 
+{% highlight ruby %}
+numbers = [1, 0, 7]
+{% endhighlight %}
+
 ## Summary
 In this blog, you will do a bit of research on `Array`s and `Hash`es and teach these concepts to your reader. Time-box yourself to an hour -- max 1.5 hours on your blog post. These aren't expected to be professional or perfect, but to show where you are at this point in your learning.
 
